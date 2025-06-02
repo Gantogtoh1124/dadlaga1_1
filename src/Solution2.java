@@ -14,7 +14,7 @@ class Person {
     }
 }
 
-public class Main {
+public class Solution2 {
     public static void main(String[] args) {
         Person p = new Person("Bold", 25);
         p.greet();
